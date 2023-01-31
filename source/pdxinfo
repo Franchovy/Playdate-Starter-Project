@@ -1,4 +1,4 @@
-name=Test-GameStructure
+name=MySampleGame
 author=Franchovy
 description=When all you have is a ton of bricks, everything looks like a paddle.
 bundleID=io.Franchovy.games
