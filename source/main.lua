@@ -3,7 +3,7 @@ import "CoreLibs/graphics"
 import "CoreLibs/sprites"
 
 local graphics <const> = playdate.graphics
-local sprite <const> = playdate.sprite
+local sprite <const> = graphics.sprite
 
 function main()
 	print("Testing!")
